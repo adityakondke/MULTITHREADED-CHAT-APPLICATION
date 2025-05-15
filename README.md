@@ -19,3 +19,5 @@ The ChatServer listens for client connections and manages communication. Each cl
 OUTPUT :
 
 ![Image](https://github.com/user-attachments/assets/d16b83c9-5626-42cf-865c-f855d2f7006f)
+
+![Image](https://github.com/user-attachments/assets/585cea91-8986-473d-9547-0fdbbe747f8a)
